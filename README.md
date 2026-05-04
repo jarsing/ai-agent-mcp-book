@@ -1,4 +1,4 @@
-# ai-agent-mcp-book
+![書籍封面](https://cf-assets2.tenlong.com.tw/products/images/000/244/519/webp/MP22522_bc.webp?1755590410)
 
 這裡是《[AI Agent 奇幻旅程：MCP 通往異世界金鑰（含最新 OpenAI GPT-5 範例）](https://www.tenlong.com.tw/products/9786264142922)》[第7章](./CH7)的程式範例。
 
